@@ -1,12 +1,3 @@
-/*****
- * Simulator.java
- * 
- * CS 335G Final Project
- * Casey Hutchinson and Chintan Suthar
- * 12/17/2015
- * 
- * Interface between the JoglEventListener and the object classes
- *****/
 
 package spaceRacer;
 
