@@ -1,0 +1,16 @@
+Contributions:
+
+Chintan Suthar - 100
+	- HUD
+	- Ship model
+	- Texturing
+
+Casey Hutchinson - 120
+	- Shooting
+	- Collision/movement
+	- Recording/playback
+
+Similar code taken from past programming assignments (with slight modifications):
+	- Skybox
+	- Camera movement (working with glulookat and gluperspective)
+	- Sphere models (planet/asteroids)
