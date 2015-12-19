@@ -54,7 +54,7 @@ The important keys:
 	e		tilts the ship to the right
 	
 	
-	===== Code Structure =====
+===== Code Structure =====
 	
 Space Racer (main) declares:
 	JOGLEventListener (listener) declares:
